@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ben ISUBÜ Bilgisayar Mühendisliği 2. Sınıf öğrencisiyim. Güncel teknoloji ve programlama dillerini takip etmek ve projeler oluşturmak için bu sayfayı oluşturdum.
 
 <!--
 **YarenKaralar/YarenKaralar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
